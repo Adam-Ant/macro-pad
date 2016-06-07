@@ -1,5 +1,5 @@
 # Macro Pad
-A project for designing a macro pad to allow complex functions to be mapped to dedicated buttons.
+A project for designing a macro pad to allow complex functions to be mapped to dedicated buttons, using the low cost Arduino Pro Micro. The pad functions by using the inbuilt features of the ATMega32u4 used on the Pro Micro to emulate a gamepad, allowing the buttons to be mapped to many functions. Also includes compatibilty with LED backlighting, including brightness control.
 
 ## Parts included:
 1. PCB and Schematic in Eagle format and as basic images
